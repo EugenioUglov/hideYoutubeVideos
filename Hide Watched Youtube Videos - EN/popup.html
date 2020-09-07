@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+	<head>
+		
+		<!-- Connect jquery -->
+		<script src="/plugins/jquery-3.4.1.min.js" type="text/javascript"></script>
+		<!-- Connect styles-->
+		<link href="css/stylePopup.css" rel="stylesheet" type="text/css"/>
+		<!-- Connect script to work with html-->
+		 <script src="popup.js"></script>
+	</head>
+	<body>
+		<div id="imagesLinks">
+			<!-- Settings icon -->
+			
+			<div class = "header__text"> HideYoutubeVideos</div>
+			<img class='settings__icon' src="icons/settings-gears.png" height ="32px" Title = "Settings"></img>
+			<div class="header"></div>
+		
+			<!-- <img src="images/set-width.png" alt="" height = "2px" width="300px"> -->
+		</div>
+			<h1 class = "settings__text" align="center">Settings</h1>
+        <!-- <button id="testBtn">Test</button> -->
+		
+		<h3 align="center">Main</h3>
+		<input type="checkbox" id ="checkboxHideWatchedVideos" name="checkboxHideWatchedVideos" value="a5">Hide all selected videos</p>
+		
+		<h3 align="center" Title="Click Right Mouse Button to hide video">Hide Settings</h3>
+		
+		<input type="radio" id="hideSettings_hideVideo" name="gender" value="male">
+		<label for="male" Title = "Hide selected video">Selected video</label><br>
+		
+		<input type="radio" id="hideSettings_hideWatchedSeries" name="gender" value="female">
+		<label for="female" Title = "Hide series until this serie. Until sharp symbol(#) name of video, after # - number of serie">Previous series[include this]</label><br>
+		
+		<input type="radio" id="hideSettings_hideAllSeries" name="gender" value="other">
+		<label for="other" Title = "Hide all series. Hide all videos with the name, where after name of selected video exist sharp symbol(#)">All series</label>
+		
+		
+		<div id="dataHtml"></div>
+	<!--
+		<input style="font-size:50px;" type="text" id="checkboxTest" title="info" value=""><span style="font-size:50px;" id="result"></span>
+	 -->
+	</body>	 
+</html>
+
+
+

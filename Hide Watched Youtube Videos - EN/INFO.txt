@@ -1,0 +1,7 @@
+-- INSTALL EXTENSION --
+
+Open an Opera browser, paste as url address: opera://extensions, click Load Unpacked and choose the folder with source materials of extension.
+
+
+--
+Icons made by <a href="https://www.flaticon.com/authors/those-icons" title="Those Icons">Those Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
