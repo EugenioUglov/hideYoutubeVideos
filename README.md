@@ -1,6 +1,6 @@
 # hideYoutubeVideos
 Extension for browser Opera which add possibilities for the platform youtube as hide videos on the videos tab or from recommendation videos in the right side.<br>
-To use this extension download the archive "Hide Watched Youtube Videos - EN.zip" and go forward with video tutorial.
+To use this extension download the archive "Hide Watched Youtube Videos - EN.zip" and go forward with <a href="https://www.youtube.com/watch?v=2f5Ha4-g_Bw">video tutorial</a>.
 
 <i><mark>Used technologies: js, php, mysql, html, css</mark></i>
 <ul>
