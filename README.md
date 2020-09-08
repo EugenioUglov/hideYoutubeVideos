@@ -8,7 +8,8 @@ To use this extension download the archive "Hide Watched Youtube Videos - EN.zip
 </div>
 <br>
 <b>Pictures of extension:</b>
-<br>
+<br><br>
+  
 <ul>
 <img src="https://i.ibb.co/VVHmQjQ/RMB-extension.png" alt="RMB click. Click Right Mouse Button on the video that you need to hide, then click on etension field of contextmenu to hide video"  align="middle" style="display: block; margin-left: auto; margin-right: auto; z-index: 1;">
 </ul>
