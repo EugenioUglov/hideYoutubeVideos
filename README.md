@@ -3,6 +3,11 @@ Extension for browser Opera which add possibilities for the platform youtube as 
 To use this extension download the archive "Hide Watched Youtube Videos - EN.zip" and go forward with video tutorial.
 
 <i><mark>Used technologies: js, php, mysql, html, css</mark></i>
+<ul>
+My contacts:
+  <li>gmail: eugeniouglov@gmail.com</li>
+  <li>facebook: www.facebook.com</li>
+</ul>
 
 <b>You can to see the youtube video with explanation how to install and use the extension:<b>
 <div align="center">
