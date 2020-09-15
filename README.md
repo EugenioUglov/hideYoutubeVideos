@@ -8,7 +8,7 @@ To use this extension download the archive
 <ul>
 My contacts:
   <li>gmail: eugeniouglov@gmail.com</li>
-  <li>facebook: www.facebook.com</li>
+  <li>facebook: www.facebook.com/jekuglov</li>
 </ul>
 
 <b>You can to see the youtube video with explanation how to install and use the extension:<b>
