@@ -11,7 +11,7 @@ My contacts:
   <li>facebook: www.facebook.com/jekuglov</li>
 </ul>
 
-<b>You can to see the youtube video with explanation how to install and use the extension:<b>
+<b>You can see the youtube video with explanation how to install and use the extension:<b>
 <div align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=2f5Ha4-g_Bw"><img src="https://i.ibb.co/9yg4HPT/youtube-extension.png" alt="youtube video tutorial. How to install and use the extension"></a>
 </div>
